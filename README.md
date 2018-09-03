@@ -1,2 +1,1 @@
-# eslint-config
-ESLint configs for Uedlinker
+# ESLint Configs for Uedlinker

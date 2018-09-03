@@ -1,0 +1,24 @@
+{
+  "name": "@uedlinker/eslint-config-base",
+  "version": "0.0.0",
+  "description": "ESLint base config for Uedlinker",
+  "keywords": [
+    "eslint",
+    "config",
+    "uedlinker"
+  ],
+  "author": "Uedlinker",
+  "homepage": "https://github.com/uedlinker/eslint-config#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uedlinker/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uedlinker/eslint-config/issues"
+  }
+}
