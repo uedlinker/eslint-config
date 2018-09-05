@@ -35,6 +35,7 @@
     }
   },
   "eslintIgnore": [
+    "__mocks__",
     "node_modules"
   ],
   "commitlint": {
