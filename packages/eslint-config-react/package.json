@@ -1,6 +1,6 @@
 {
   "name": "@uedlinker/eslint-config-react",
-  "version": "0.0.0",
+  "version": "2.0.0-alpha.0",
   "description": "ESLint config of React for Uedlinker",
   "keywords": [
     "eslint",
@@ -23,7 +23,7 @@
     "url": "https://github.com/uedlinker/eslint-config/issues"
   },
   "devDependencies": {
-    "@uedlinker/eslint-config-base": "^0.0.0",
+    "@uedlinker/eslint-config-base": "^2.0.0-alpha.0",
     "babel-eslint": "^9.0.0",
     "eslint": "^5.5.0",
     "eslint-plugin-import": "^2.14.0",
